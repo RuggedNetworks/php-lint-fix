@@ -26,11 +26,11 @@ docker run -it --rm -v `pwd`:/app sixlive/php-lint-fix phpcs
 
 ## Changelog
 
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG](https://github.com/sixlive/php-lint-fix/blob/master/CHANGELOG.md) for more information what has changed recently.
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/sixlive/php-lint-fix/blob/master/CONTRIBUTING.md) for details.
 
 ## Security
 
@@ -39,8 +39,8 @@ If you discover any security related issues, please email oss@tjmiller.co instea
 ## Credits
 
 - [TJ Miller](https://github.com/sixlive)
-- [All Contributors](../../contributors)
+- [All Contributors](https://github.com/sixlive/php-lint-fix/graphs/contributors)
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/sixlive/php-lint-fix/blob/master/LICENSE.md) for more information.
