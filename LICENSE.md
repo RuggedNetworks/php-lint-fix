@@ -1,7 +1,8 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `2017` `TJ Miller`
+Copyright © `2017` `Rugged Networks Limited`
+Original work Copyright © `2017` `TJ Miller`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
